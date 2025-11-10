@@ -1,6 +1,8 @@
-
+<!-- =============================
+ style.css
+============================== -->
 :root{
-  --bg:#0b1220; --panel:#0f172a; --ink:#e5e7eb; --muted:#a3a3a3; --brand:#0ea5e9; --accent:#22d3ee; --ok:#10b981; --warn:#f59e0b;
+  --bg:#fff8f3; --panel:#fff3ea; --ink:#4b3f38; --muted:#9c8f86; --brand:#e8a56c; --accent:#f2c59b; --ok:#72b085; --warn:#e8b15c;
 }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0}
